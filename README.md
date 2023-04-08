@@ -33,10 +33,10 @@ sdk.visualize_data()
 sdk.save_analysis_results('output.csv')
 ```
 
-Visualizations
+## Visualizations
 
-Contributing
+## Contributing
 Feel free to contribute to this SDK by submitting pull requests or reporting issues.
 
-License
+## License
 This SDK is released under the MIT License.
